@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , It's Negar 👋
 just a senior computer engineering student who loves studying  ```AI and deep learning``` , enjoys learning about ```cyber security``` , ```data encryption``` and ```data analysis``` and likes coding so much.
 
 <p align="center">
