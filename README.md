@@ -1,5 +1,5 @@
 ### Hi there , It's Negar 👋
-just a senior computer engineering student who loves studying  ```AI and deep learning``` , enjoys learning about ```cyber security``` , ```data encryption``` and ```data analysis``` and likes coding so much.
+just a senior computer engineering student who loves studying  ```AI and Deep Learning``` , enjoys learning about ```Cyber Security``` , ```Data Encryption``` and ```Data Analysis``` and likes coding so much.
 
 <p align="center">
   <a href="https://github.com/negarhonarvar/Computer-architecture-">
