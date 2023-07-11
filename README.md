@@ -1,7 +1,7 @@
 ### Hi there 👋
 just a senior computer engineering student who loves studying AI and deep learning , enjoys learning about cyber security , data encryption and data analysis and likes coding so much.
-- 📫 How to reach me: honarvar.negar.sedighian@gmail.com
--                      negar_hrs@yahoo.com
+- 📫 How to reach me: honarvar.negar.sedighian@gmail.com or negar_hrs@yahoo.com
+-                      
 <!--
 **negarhonarvar/negarhonarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
