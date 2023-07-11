@@ -1,7 +1,16 @@
 ### Hi there 👋
-just a senior computer engineering student who loves studying AI and deep learning , enjoys learning about cyber security , data encryption and data analysis and likes coding so much.
+just a senior computer engineering student who loves studying ''' AI and deep learning''' , enjoys learning about '''cyber security''' , '''data encryption''' and '''data analysis''' and likes coding so much.
 - 📫 How to reach me: honarvar.negar.sedighian@gmail.com or negar_hrs@yahoo.com
--                      
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter" />
+  </a>
+</p>
+
+## Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negarhonarvar&hide_progress=true&theme=highcontrast)](https://github.com/negarhonarvar?tab=repositories)
+                      
 <!--
 **negarhonarvar/negarhonarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
