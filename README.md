@@ -2,7 +2,7 @@
 just a senior computer engineering student who loves studying  ```AI and deep learning``` , enjoys learning about ```cyber security``` , ```data encryption``` and ```data analysis``` and likes coding so much.
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/negarhonarvar/Computer-architecture-">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,flutter,git,idea,java,matlab,py"/>
   </a>
 </p>
