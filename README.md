@@ -6,7 +6,6 @@ just a senior computer engineering student who loves studying ''' AI and deep le
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,flutter,git,idea,java,matlab,py"/>
   </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,c,cpp,flutter,git,idea,java,matlab,py)](https://skillicons.dev)
 
 - 📫 How to reach me: honarvar.negar.sedighian@gmail.com or negar_hrs@yahoo.com
   
