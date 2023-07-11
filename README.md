@@ -1,5 +1,5 @@
 ### Hi there 👋
-just a senior computer engineering student who loves studying ''' AI and deep learning''' , enjoys learning about '''cyber security''' , '''data encryption''' and '''data analysis''' and likes coding so much.
+just a senior computer engineering student who loves studying  ```AI and deep learning``` , enjoys learning about ```cyber security``` , ```data encryption``` and ```data analysis``` and likes coding so much.
 
 <p align="center">
   <a href="https://skillicons.dev">
