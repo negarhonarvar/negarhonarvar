@@ -1,6 +1,6 @@
 ### Hi there 👋
 just a senior computer engineering student who loves studying AI and deep learning , enjoys learning about cyber security , data encryption and data analysis and likes coding so much.
-- 📫 How to reach me: https://www.linkedin.com/in/negar-honarvar-sedighian-6ba307228
+- 📫 How to reach me:linkedin.com/in/negar-honarvar-sedighian-6ba307228
 <!--
 **negarhonarvar/negarhonarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
