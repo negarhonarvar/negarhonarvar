@@ -1,6 +1,6 @@
 ### Hi there 👋
 just a senior computer engineering student who loves studying ''' AI and deep learning''' , enjoys learning about '''cyber security''' , '''data encryption''' and '''data analysis''' and likes coding so much.
-- 📫 How to reach me: honarvar.negar.sedighian@gmail.com or negar_hrs@yahoo.com
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,flutter,git,idea,java,matlab,py"/>
