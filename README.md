@@ -10,11 +10,13 @@ just a senior computer engineering student who loves studying  ```AI and Deep Le
 - 📫 How to reach me: honarvar.negar.sedighian@gmail.com or negar_hrs@yahoo.com
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=negarhonarvar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negarhonarvar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+
 ## Languages
+<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negarhonarvar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=negarhonarvar&hide_progress=true&theme=highcontrast)](https://github.com/negarhonarvar?tab=repositories)
                       
-<!--
+
 **negarhonarvar/negarhonarvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
