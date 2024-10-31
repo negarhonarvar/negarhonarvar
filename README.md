@@ -2,8 +2,8 @@
 just a senior computer engineering student who loves studying  ```AI and Deep Learning``` , enjoys learning about ```Graph Neural Networks``` , ```Application of deep learning methods in Healthcare``` and ```Reinforcement Learning Algorithms ``` and likes coding so much.
 
 <p align="center">
-  <a href="https://github.com/negarhonarvar/Computer-architecture-">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,flutter,git,idea,java,matlab,py"/>
+  <a href="https://github.com/negarhonarvar/Computer-vision">
+    <img src="https://skillicons.dev/icons?i=androidstudio,c,cpp,flutter,git,idea,java,matlab,py,ipynab,webots,gymnasium"/>
   </a>
 </p>
 
