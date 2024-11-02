@@ -7,7 +7,7 @@ just a senior computer engineering student who loves studying  ```Computer Visio
   </a>
 </p>
 
-- 📫 How to reach me: negarhonarvar.s@gmail.com or negar_hrs@yahoo.com
+- 📫 How to reach me: negarhonarvar.se@gmail.com or negar_hrs@yahoo.com
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=negarhonarvar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
 
