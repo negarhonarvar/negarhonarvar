@@ -1,4 +1,4 @@
-### Hi there , It's Negar 👋
+# Hi there , It's Negar 👋
 just a senior computer engineering student who loves studying  ```Computer Vision and Deep Learning``` , enjoys learning about ```Graph Neural Networks``` , ```Application of deep learning methods in Healthcare``` and ```Reinforcement Learning Algorithms ``` and likes coding so much.
 
 <p align="center">
@@ -7,7 +7,7 @@ just a senior computer engineering student who loves studying  ```Computer Visio
   </a>
 </p>
 
- ## - 📫 How to reach me?
+ ## 📫 How to reach me?
  negarhonarvar.se@gmail.com or negar_hrs@yahoo.com
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=negarhonarvar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
