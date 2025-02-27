@@ -1,5 +1,5 @@
 # Hi there , It's Negar 👋
-just a senior computer engineering student who loves studying  ```Computer Vision and Deep Learning``` , enjoys learning about ```Graph Neural Networks``` , ```Application of deep learning methods in Healthcare``` and ```Reinforcement Learning Algorithms ``` and likes coding so much.
+I am a Computer Engineer who loves studying  ```Computer Vision and Deep Learning``` , enjoys learning about ```Graph Neural Networks``` , ```Application of deep learning methods in Healthcare``` and ```Reinforcement Learning Algorithms ``` and likes coding so much.
 
 <p align="center">
   <a href="https://github.com/negarhonarvar/Computer-vision">
